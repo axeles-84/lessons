@@ -2,6 +2,7 @@
 Задача 1
 https://hub.docker.com/repository/docker/axeles84/custom-nginx/general
 
-{https://github.com/axeles-84/lessons/blob/main/1.PNG}
+{}![[Uploading 1.PNG…](https://github.com/axeles-84/lessons/blob/main/1.PNG)]()
+
 
 
