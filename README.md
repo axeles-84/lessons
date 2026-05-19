@@ -22,4 +22,4 @@ https://hub.docker.com/repository/docker/axeles84/custom-nginx/general
 Debian
 ![Image alt](https://github.com/axeles-84/lessons/blob/main/Debian.PNG)
 Centos
-![Image alt](https://github.com/axeles-84/lessons/blob/main/Centos.PNG)
+![Image alt](https://github.com/axeles-84/lessons/blob/main/Centos.PNG?raw=true)
