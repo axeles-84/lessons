@@ -22,7 +22,7 @@ https://hub.docker.com/repository/docker/axeles84/custom-nginx/general
 
 
 Debian
-![Image alt](https://github.com/axeles-84/lessons/blob/main/Debian.PNG)
+![Image alt](https://github.com/axeles-84/lessons/blob/main/debian.PNG)
 
 _____________________________________________________________________________
 
