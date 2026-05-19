@@ -19,7 +19,13 @@ https://hub.docker.com/repository/docker/axeles84/custom-nginx/general
 ![Image alt](https://github.com/axeles-84/lessons/blob/main/3.PNG)
 ![Image alt](https://github.com/axeles-84/lessons/blob/main/4.PNG)
 Задача 4
+
+
 Debian
 ![Image alt](https://github.com/axeles-84/lessons/blob/main/Debian.PNG)
+
+_____________________________________________________________________________
+
+
 Centos
 ![Image alt](https://github.com/axeles-84/lessons/blob/main/Centos.PNG?raw=true)
