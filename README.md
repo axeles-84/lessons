@@ -29,3 +29,18 @@ _____________________________________________________________________________
 
 Centos
 ![Image alt](https://github.com/axeles-84/lessons/blob/main/Centos.PNG?raw=true)
+
+
+Задача 5
+1) По умолчанию Docker-compoce ищет фаил compose.yaml , пишет при запуске нашел фаил конфигурации.
+2) Отредактировал запустил оба образа , использовал команду include для ссылки на 2 фаил
+3) Выполнил команды
+   ![Image alt](https://github.com/axeles-84/lessons/blob/main/push.PNG)
+4)Выполнено и нстроено
+5) Выполнено
+    ![Image alt](https://github.com/axeles-84/lessons/blob/main/stack.PNG)
+6) Означает есть контейнер(ы) запущенные , но есть ссылки на конфигурации контейнеров
+   Предагает ключем --remove-orphans удалить вс ссылки.
+     ![Image alt](https://github.com/axeles-84/lessons/blob/main/stop.PNG)
+   
+   
