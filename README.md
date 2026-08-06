@@ -21,6 +21,8 @@ preemptible = true и core_fraction=5
 
 
 ![Image alt](https://github.com/axeles-84/lessons/blob/main/vmweb.PNG)
+
+
 Виртуальная машина DB
 
 
