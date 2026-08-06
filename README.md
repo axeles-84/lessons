@@ -11,6 +11,7 @@ https://github.com/axeles-84/ter-homeworks.git
 Выбор версии террафом
 Данная запись означает что можно использовать версию 1.12.X , а у нас версия устанавливается 1.15X
  required_version = "~>1.12.0"
+ 
 Для этого нужно исправить запись на required_version = "~>1.15.0" или ">= 1.12.0"
 Такой платформы не существует в облаке яндекс
 FailedPrecondition desc = Platform "standart-v4
