@@ -18,14 +18,22 @@ FailedPrecondition desc = Platform "standart-v4
 preemptible = true и core_fraction=5
 
 Виртуальная машина WEB
+
+
 ![Image alt](https://github.com/axeles-84/lessons/blob/main/vmweb.PNG)
 Виртуальная машина DB
+
+
 ![Image alt](https://github.com/axeles-84/lessons/blob/main/vmdb.PNG)
 
 Вид из консоли
+
+
 ![Image alt](https://github.com/axeles-84/lessons/blob/main/allvm.PNG)
 
 Задача 4
+
+
 ![Image alt](https://github.com/axeles-84/lessons/blob/main/outputs.PNG)
 
 Задание 6
