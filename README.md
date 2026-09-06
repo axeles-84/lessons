@@ -1,17 +1,19 @@
 Задание 1
 
-![Image alt](https://github.com/axeles-84/lessons/blob/main/secgr.PNG)
+Выполнение команды. 
 
-
-Задание 4
-
-
-![Image alt](https://github.com/axeles-84/lessons/blob/main/hosts.PNG)
+![Image alt](https://github.com/axeles-84/lessons/blob/main/fact.PNG)
 
 
 
 
-https://github.com/axeles-84/ter-homeworks/tree/terraform-03/03/src
+![Image alt](https://github.com/axeles-84/lessons/blob/main/end.PNG)
+
+
+
+Ссылка на репозиторий 
+
+https://github.com/axeles-84/ansible_1.git
 
 
 
