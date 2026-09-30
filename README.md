@@ -40,7 +40,7 @@ Push лучше подходит для динамических, распред
 
 
 
-
+![Image alt](https://github.com/axeles-84/lessons/blob/main/tom.PNG)
 
 
 
